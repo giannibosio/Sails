@@ -1,0 +1,246 @@
+﻿
+body {
+	padding: 20px;
+}
+
+@media screen and (max-width: 768px) {
+	body {
+		padding-top: 0px;
+	}
+}
+
+.clickable {
+	cursor: pointer;
+	background: #ffff99;
+}
+
+.clicked {
+	cursor: pointer;
+	background: #fed6d6;
+}
+
+
+.btn.disabled,
+.btn[disabled] {
+  cursor: not-allowed;
+  opacity:0.30;
+}
+
+
+/*----------------------------------------*/
+
+
+.modal-backdrop {background-color: lightgray;}
+
+
+
+/*----------------------------------------*/
+
+.input-validation-error {
+	font-weight: bold;
+	color: red;
+}
+
+.input-validation-valid {
+	font-weight: bold;
+	color: darkgreen;
+}
+
+.field-validation-error {
+	font-weight: bold;
+	color: red;
+}
+
+.field-validation-valid {
+	font-weight: bold;
+	color: darkgreen;
+}
+
+.validation-summary-errors {
+	font-weight: bold;
+	color: red;
+}
+
+.validation-summary-valid {
+	font-weight: bold;
+	color: darkgreen;
+}
+/*----------------------------------------*/
+.grid {
+	width: 100%;
+}
+
+.grid th, .grid td {
+	border: 1px solid #C0C0C0;
+	padding: 5px;
+	text-align: center;
+}
+
+.gridheader {
+	background-color: #e6e6e6;
+}
+
+.gridrow tr {
+}
+
+.alternate {
+	background-color: rgba(225, 222, 222, 0.43);
+}
+/*
+.table tr td gridcolnum {
+	font-weight: bolder;
+	color:red;
+	text-align: right;
+}
+
+.gridcolint {
+	font-weight: bolder;
+	color:red;
+}*/
+/*----------------------------------------*/
+
+/* caratteristiche comuni del bzPanel*/
+div[class^=bzPanel]
+{
+	margin:3px;
+	padding:5px;
+	border:none;
+    font-size : small;
+}
+
+
+.bzPanel-green{
+    background-color: rgba(133, 249, 17, 0.44); 
+    color:  black;
+}
+
+.bzPanel-yellow{
+    background-color: yellow; 
+    color:  black;
+}
+
+.bzPanel-azure{
+    background-color:#00FFFF ; 
+    color:  black;
+}
+
+.bzPanel-orange{
+    background-color: orange; 
+    color:  black;
+}
+
+.bzPanel-gray{
+    background-color: #e7e7e7; 
+    color:  black;
+}
+
+.bzPanel-white{
+    background-color: white; 
+    color:  white;
+}
+
+
+
+/* Price background */
+#stockDetail
+	{
+	/*width:99%;
+    text-align: right;
+	border-width: medium;
+	border-color:maroon;
+	background-color:rgba(187, 246, 251, 0.52);*/
+	} 
+#green	
+	{
+	background-color:rgba(133, 249, 17, 0.44);
+	text-align:center;
+	} 
+#yellow	
+	{
+	background-color:rgba(255, 251, 37, 0.55);
+	text-align:center;
+	} 
+#azure	
+	{
+	background-color:rgba(25, 253, 253, 0.42);
+	text-align:center;
+	} 
+#orange	
+	{
+	background-color:  #fbbf0b;
+	text-align:center;
+	} 
+#gray	
+	{
+	background-color:  rgba(209, 205, 205, 0.65);
+	text-align:center;
+	} 
+
+
+
+.navbar .nav > li > a {
+  float: none;
+  padding: 10px 15px 10px;
+  color: gray;
+  text-decoration: none;
+  /*text-shadow: 0 1px 0 #ffffff;*/
+}
+
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  color: black;
+   font-weight:900;
+ text-decoration: none;
+  background-color: transparent;
+}
+
+	input[type=radio]   {
+	    /*content: "";  
+	    display: inline-block;*/  
+	    width: 30px; 
+	    height: 30px;  
+	    vertical-align:middle;
+	    margin-right: 8px;  
+	    /*background-color: #e6e6e6;*/  
+	    border-radius: 15px;  
+	}
+	input[type=checkbox]   {
+	    /*content: "";  
+	    display: inline-block;*/  
+	    width: 30px;  
+	    height: 30px;  
+	    vertical-align:bottom;
+	    margin-right: 8px;  
+	    /*background-color: #aaa;*/  
+	    border-radius: 4px;  
+	}
+	input[type=radio]:checked   {
+		/*content: "\2714";
+		color:yellow;*/
+	    background-color: #80FF00; 
+		font-size:1.8em;
+	    vertical-align:middle;
+		line-height:30px;
+	}
+	input[type=checkbox]:checked   {
+		/*content:"\2714";
+		color:yellow;*/
+	    background-color: #80FF00; 
+		font-size:1.8em;
+		text-align:center;
+		line-height:30px;
+	}
+
+.popover-title{
+    background: #ffff99;
+    color:red;
+}
+
+.popover-content{
+    background: #e6e6e6;
+}
+
+#myModal .modal-body {
+max-height: 800px;
+}
+
