@@ -1,0 +1,125 @@
+{
+    "href": "https://icaro2000.com",
+    "palette": [
+        {
+            "id" : "1",
+            "class" : "px10",
+            "choice" : "PX10",
+            "fill" : "PX10"
+        },
+        {
+            "id" : "2",
+            "class" : "dacronsquare",
+            "choice" : "Dacron square (white)",
+            "fill" : "#ffffff"
+        },
+        {
+            "id" : "3",
+            "class" : "allcolors",
+            "choice" : "Dark Blue, Medium Blue, Green, Flu Green, Grey, Flu Orange, Flu Pink, Red, Flu Red, Yellow, FluYellow, White, Black",
+            "fill" : "#0000ff, #3366ff, #009242, #9cfc5c, #c0c0c0, #fe5936, #ff3399, #d20000, #ff1111, #fff100, #ffff58, #ffffff, #000000"
+        },
+        {
+            "id" : "4",
+            "class" : "white-black",
+            "choice" : "White, Black",
+            "fill" : "#ffffff, #000000"
+        },
+        {
+            "id" : "5",
+            "class" : "technora",
+            "choice" : "Technora",
+            "fill" : "Technora"
+        },
+        {
+            "id" : "6",
+            "class" : "technora-pbx-px10",
+            "choice" : "Technora, PBX, PX10",
+            "fill" : "Technora, PBX, PX10"
+        },
+        {
+            "id" : "7",
+            "class" : "technora-dacronsquare",
+            "choice" : "Technora, Dacron square (white)",
+            "fill" : "Technora, #ffffff"
+        },
+        {
+            "id" : "8",
+            "class" : "technora-pbx-allcolors",
+            "choice" : "Technora, PBX, Dark Blue, Medium Blue, Green, Flu Green, Grey, Flu Orange, Flu Pink, Red, Flu Red, Yellow, FluYellow, White, Black",
+            "fill" : "Technora, PBX, #0000ff, #3366ff, #009242, #9cfc5c, #c0c0c0, #fe5936, #ff3399, #d20000, #ff1111, #fff100, #ffff58, #ffffff, #000000"
+        },
+        {
+            "id" : "9",
+            "class" : "white",
+            "choice" : "White",
+            "fill" : "#ffffff"
+        },
+        {
+            "id" : "10",
+            "class" : "black",
+            "choice" : "Black",
+            "fill" : "#000000"
+        },
+        {
+            "id" : "11",
+            "class" : "technora-px10-allcolors",
+            "choice" : "Technora, PX10, Dark Blue, Medium Blue, Green, Flu Green, Grey, Flu Orange, Flu Pink, Red, Flu Red, Yellow, FluYellow, White, Black",
+            "fill" : "Technora, PX10, #0000ff, #3366ff, #009242, #9cfc5c, #c0c0c0, #fe5936, #ff3399, #d20000, #ff1111, #fff100, #ffff58, #ffffff, #000000"
+        },
+        {
+            "id" : "12",
+            "class" : "technora-px10",
+            "choice" : "Technora, PX10",
+            "fill" : "Technora, PX10"
+        },
+        {
+            "id" : "13",
+            "class" : "pbx-px10",
+            "choice" : "PBX, PX10",
+            "fill" : "PBX, PX10"
+        },
+        {
+            "id" : "14",
+            "class" : "tnf140",
+            "choice" : "TNF140 (white)",
+            "fill" : "#ffffff"
+        },
+        {
+            "id" : "15",
+            "class" : "pxb-px10",
+            "choice" : "PXB, PX10",
+            "fill" : "PXB, PX10"
+        },
+        {
+            "id" : "16",
+            "class" : "pxb-allcolors",
+            "choice" : "PXB, Dark Blue, Medium Blue, Green, Flu Green, Grey, Flu Orange, Flu Pink, Red, Flu Red, Yellow, FluYellow, White, Black",
+            "fill" : "PXB, #0000ff, #3366ff, #009242, #9cfc5c, #c0c0c0, #fe5936, #ff3399, #d20000, #ff1111, #fff100, #ffff58, #ffffff, #000000"
+        },
+        {
+            "id" : "17",
+            "class" : "technora-allcolors",
+            "choice" : "Technora, Dark Blue, Medium Blue, Green, Flu Green, Grey, Flu Orange, Flu Pink, Red, Flu Red, Yellow, FluYellow, White, Black",
+            "fill" : "Technora, #0000ff, #3366ff, #009242, #9cfc5c, #c0c0c0, #fe5936, #ff3399, #d20000, #ff1111, #fff100, #ffff58, #ffffff, #000000"
+        },
+        {
+            "id" : "18",
+            "class" : "technora-pxb-allcolors",
+            "choice" : "Technora, PXB, Dark Blue, Medium Blue, Green, Flu Green, Grey, Flu Orange, Flu Pink, Red, Flu Red, Yellow, FluYellow, White, Black",
+            "fill" : "Technora, PXB, #0000ff, #3366ff, #009242, #9cfc5c, #c0c0c0, #fe5936, #ff3399, #d20000, #ff1111, #fff100, #ffff58, #ffffff, #000000"
+        },
+        {
+            "id" : "19",
+            "class" : "technora-pxb-px10",
+            "choice" : "Technora, PXB, PX10",
+            "fill" : "Technora, PXB, PX10"
+        },
+        {
+            "id" : "20",
+            "class" : "altonose",
+            "choice" : "Like Panel D, Like Panel E",
+            "fill" : "#fff,#fff"
+        }
+    ]
+}
